@@ -8,5 +8,5 @@ Xususiyatlar:
   - YouTube Player integratsiyasi: Filmlarning treylerini to‘g‘ridan-to‘g‘ri ilova ichida yuqori sifatda tomosha qilish.
   - Zamonaviy dizayn: Minimalistik va moslashuvchan foydalanuvchi interfeysi.
 
-Ilovaning maqsadi
-MovieExplorer filmlar ixlosmandlariga ularni qiziqtirgan filmlar haqida to‘liq va qulay ma'lumot olish, shuningdek, treylerlarni tomosha qilish imkonini yaratadi. Ushbu ilova barcha filmlar ixlosmandlari uchun bir joyda hamma narsani topishga mo‘ljallangan.
+Ilovaning maqsadi:
+WolrdMovies_app filmlar ixlosmandlariga ularni qiziqtirgan filmlar haqida to‘liq va qulay ma'lumot olish, shuningdek, treylerlarni tomosha qilish imkonini yaratadi. Ushbu ilova barcha filmlar ixlosmandlari uchun bir joyda hamma narsani topishga mo‘ljallangan.
