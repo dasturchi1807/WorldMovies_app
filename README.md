@@ -9,4 +9,4 @@ Xususiyatlar:
   - Zamonaviy dizayn: Minimalistik va moslashuvchan foydalanuvchi interfeysi.
 
 Ilovaning maqsadi:
-WolrdMovies_app filmlar ixlosmandlariga ularni qiziqtirgan filmlar haqida to‘liq va qulay ma'lumot olish, shuningdek, treylerlarni tomosha qilish imkonini yaratadi. Ushbu ilova barcha filmlar ixlosmandlari uchun bir joyda hamma narsani topishga mo‘ljallangan.
+  - WorldMovies_app filmlar ixlosmandlariga ularni qiziqtirgan filmlar haqida to‘liq va qulay ma'lumot olish, shuningdek, treylerlarni tomosha qilish imkonini yaratadi. Ushbu ilova barcha filmlar ixlosmandlari uchun bir joyda hamma narsani topishga mo‘ljallangan.
